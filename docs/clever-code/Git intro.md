@@ -1,3 +1,11 @@
+---
+layout: default
+title: Getting started
+parent: Git
+grand_parent: Clever Code
+nav_order: 
+has_children: false
+---
 # Getting started with Git
 
 1. Download and install Git:
