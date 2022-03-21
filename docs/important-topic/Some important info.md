@@ -1,3 +1,11 @@
+---
+layout: default
+title: Info text
+parent: Important Topic
+nav_order: 
+has_children: false
+---
+
 # Here the could be a lot of info
 This could be a lot of text...
 
@@ -14,19 +22,7 @@ Bullets points can be booring some times, so maybe things should be in a table i
 
 ### Tables 
 
-A table could be done like:
-
----
-parameter: foo
-name: Foo
-value: 42
-format: none
----
-
-or maybe:
-
-
-I could also do a table over good and *evil* animals
+I could be a table over good and *evil* animals
 
 | **Good** | **Evil** |
 | ----------- | ----------- |

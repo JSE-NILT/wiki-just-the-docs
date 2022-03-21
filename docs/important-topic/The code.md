@@ -1,3 +1,10 @@
+---
+layout: default
+title: The Code
+parent: Important Topic
+nav_order: 
+has_children: false
+---
 # The Code
 
 Here we are going to tell about the important code stuff. When coding, emojis are the certainly important! 🍕

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+permalink: /
+description: A wiki for the Optics Team at NILT
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JSE-NILT/wiki-just-the-docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
