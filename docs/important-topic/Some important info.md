@@ -50,13 +50,12 @@ $$
 \end{aligned}
 $$
 
-Yay! It works!
-
-That is for sure *fancy*!
-
+Does it work..? 
 ## Important image
 
 An image is worth a thousand words, right..?
 
-[Big dog, small picture...](assets/images/dog.png)
+![Big dog, small picture...](../../assets/images/dog.png)
+
+That is for sure *fancy*!
 
