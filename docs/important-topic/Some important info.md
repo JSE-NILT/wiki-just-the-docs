@@ -4,6 +4,7 @@ title: Info text
 parent: Important Topic
 nav_order: 
 has_children: false
+mathjax: true
 ---
 
 # Here the could be a lot of info
