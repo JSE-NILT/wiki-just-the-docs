@@ -2,8 +2,6 @@
 layout: default
 title: Info text
 parent: Important Topic
-nav_order: 
-has_children: false
 mathjax: true
 ---
 
