@@ -55,7 +55,7 @@ Does it work..?
 
 An image is worth a thousand words, right..?
 
-![Big dog, small picture...](../../assets/images/dog.png)
+[Big dog, small picture...](../../assets/images/dog.PNG)
 
 That is for sure *fancy*!
 
